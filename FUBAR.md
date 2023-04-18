@@ -13,3 +13,6 @@ What happened to the candle that was rubbish...?
 
 It got fired!
 
+## Hey it's Ted
+
+Abraham Lincoln: "The best way to predict your future is to create it."
