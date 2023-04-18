@@ -7,3 +7,9 @@ Um gajo entre num bar e diz ola amigos
 le verre vert est en verre.
 le vers vert est dans le verre vert.
 
+## Best joke
+
+What happened to the candle that was rubbish...?
+
+It got fired!
+
